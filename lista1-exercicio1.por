@@ -21,7 +21,6 @@ programa
 		escreva("\nDigite seu sobrenome: ")
 		leia(sobrenome)
 		escreva("\n")
-		escreva("\n")
 		escreva("Meu nome é : ", nome, " ", sobrenome)
 		escreva("Tchau!")
 	}
