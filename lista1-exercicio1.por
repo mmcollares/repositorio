@@ -14,14 +14,16 @@ programa
 	funcao inicio()
 	{
 
-		cadeia nome, sobrenome
+		cadeia nome, sobrenome, teste
 		
 		escreva("\nDigite seu nome: ")
 		leia(nome)
 		escreva("\nDigite seu sobrenome: ")
 		leia(sobrenome)
 		escreva("\n")
+		escreva("\n")
 		escreva("Meu nome é : ", nome, " ", sobrenome)
+		escreva("Tchau!")
 	}
 }
 /* $$$ Portugol Studio $$$ 
