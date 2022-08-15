@@ -23,6 +23,7 @@ programa
 		escreva("\n")
 		escreva("Meu nome é : ", nome, " ", sobrenome)
 		escreva("Tchau!")
+		escreva("Buy Buy!")
 	}
 }
 /* $$$ Portugol Studio $$$ 
