@@ -1,6 +1,6 @@
 /*
 1 - Escreva um programa para verificar se um triângulo pode ser formado pelo valor
-fornecido para os ângulos.
+fornecido para os ângulos.     
 
 Regras
 1 - Soma dos angulos internos tem que ser iguai a 180
